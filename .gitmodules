@@ -1,0 +1,3 @@
+[submodule "lib/pandas"]
+	path = lib/pandas
+	url = https://github.com/pandas-dev/pandas.git
